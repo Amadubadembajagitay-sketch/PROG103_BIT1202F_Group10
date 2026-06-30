@@ -1,0 +1,5 @@
+# Rationale
+
+The KrioHealth Clinic Queue Management System was developed to improve the management of patients in healthcare facilities. Many clinics experience long waiting times and difficulty organizing patients when records are kept manually. This system provides a simple digital solution that registers patients, manages the waiting queue using the First-In, First-Out (FIFO) method, and allows healthcare staff to serve patients efficiently.
+
+The project also demonstrates the practical application of Python programming, Object-Oriented Programming (OOP), and graphical user interface (GUI) development using Tkinter. Additionally, it supports **Sustainable Development Goal (SDG) 3: Good Health and Well-being** by promoting better healthcare service delivery through efficient patient queue management.
